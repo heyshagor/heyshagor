@@ -41,3 +41,5 @@ Future software developer and technologist, passionate about AI, networking, and
 
 shagor in ~ 
   λ echo "Code. Learn. Repeat! 🚀"
+
+  ---
