@@ -54,6 +54,8 @@ path in ~
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=heyshagor&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+  
+  
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyshagor&layout=compact&theme=radical&hide_title=true&langs_count=10" />
 </p>
 
@@ -66,4 +68,5 @@ path in ~
 </p>
 
 
+[![Shagor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heyshagor&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
