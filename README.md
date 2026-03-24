@@ -39,7 +39,7 @@ path in ~
 ```
 
 🔗 Connect With Me
-<p align="center"> <samp> <i>Let's collaborate and connect!</i><br> <b> <a href="https://www.linkedin.com/in/itzshagor">🔗 LinkedIn</a> | <a href="https://www.instagram.com/heyshagor">📷 Instagram</a> | <a href="https://www.twitter.com/shagor_dev">🐦 X</a> | <a href="https://www.leetcode.com/shagor">🧑🏻‍💻 Leetcode</a> </b> </samp> </p>
+<p align="center"> <samp> <i>Let's collaborate and connect!</i><br> <b> <a href="https://www.linkedin.com/in/itzshagor">🔗 LinkedIn</a> | <a href="https://www.instagram.com/heyshagor">📷 Instagram</a> | <a href="https://www.x.com/heyshagor">🐦 X</a> | <a href="https://www.leetcode.com/heyshagor">🧑🏻‍💻 Leetcode</a> </b> </samp> </p>
 
 
 🛠️ Languages and Tools
