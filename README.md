@@ -46,7 +46,7 @@ path in ~
 <p align="center"> <samp> <b>Python | Networking | AI/ML | LLM | C | Bash | Linux | Git | Pandas | NumPy | TensorFlow | PyTorch | Scikit-learn | HTML | CSS | JS</b> </samp> </p>
 
 ☕ Support Me
-<p align="center"> <samp> <i>If you like my work, you can support me!</i><br> <b><a href="https://www.buymeacoffee.com/shagor">Buy Me a Coffee</a></b> </samp> </p>
+<p align="center"> <samp> <i>If you like my work, you can support me!</i><br> <b><a href="https://www.buymeacoffee.com/heyshagor">Buy Me a Coffee</a></b> </samp> </p>
 
 ---
 
