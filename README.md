@@ -50,14 +50,6 @@ path in ~
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=heyshagor&show_icons=true&theme=radical&hide_title=true&count_private=true" />
-  
-  
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyshagor&layout=compact&theme=radical&hide_title=true&langs_count=10" />
-</p>
 
 ---
 
