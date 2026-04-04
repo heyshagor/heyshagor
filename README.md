@@ -48,8 +48,6 @@ path in ~
 ☕ Support Me
 <p align="center"> <samp> <i>If you like my work, you can support me!</i><br> <b><a href="https://www.buymeacoffee.com/heyshagor">Buy Me a Coffee</a></b> </samp> </p>
 
----
-
 
 ---
 
